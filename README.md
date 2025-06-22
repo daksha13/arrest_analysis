@@ -99,7 +99,7 @@ To explore and visualize arrest patterns across 19 Indian metropolitan cities in
 
 ## 📁 Project Structure
 
-NCRB-Arrest-Analysis/
+arrest_analysis/
 ├── data/
 │ └── NCRB_CII-2019_Table_19B.2.csv
 ├── notebooks/
