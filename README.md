@@ -40,7 +40,7 @@ To explore and visualize arrest patterns across 19 Indian metropolitan cities in
 
 ### 1️⃣ Total Arrests by City
 
-![Total Arrests by City](./Total%20Arrests%20by%20City%20(2019).png)
+![Total Arrests by City](./charts/Total%20Arrests%20by%20City%20(2019).png)
 
 > **Delhi**, **Chennai**, and **Mumbai** recorded the highest number of arrests.
 
@@ -48,7 +48,7 @@ To explore and visualize arrest patterns across 19 Indian metropolitan cities in
 
 ### 2️⃣ Gender-Wise Arrest Distribution
 
-![Gender-wise Arrest Distribution](./Gender-wise%20Arrest%20Distribution.png)
+![Gender-wise Arrest Distribution](./charts/Gender-wise%20Arrest%20Distribution.png)
 
 > **Males account for 94.5%** of all arrests, highlighting a strong gender skew.
 
@@ -56,7 +56,7 @@ To explore and visualize arrest patterns across 19 Indian metropolitan cities in
 
 ### 3️⃣ Age Group Distribution by City
 
-![Age Group Distribution](./Age%20Group%20Distribution%20of%20Arrests%20by%20City.png)
+![Age Group Distribution](./charts/Age%20Group%20Distribution%20of%20Arrests%20by%20City.png)
 
 > The **18–30** age group consistently has the highest arrest rates across cities.
 
@@ -64,7 +64,7 @@ To explore and visualize arrest patterns across 19 Indian metropolitan cities in
 
 ### 4️⃣ Heatmap of Age Group Arrests
 
-![Heatmap](./Heatmap%20of%20Age%20Group%20Arrests%20by%20City.png)
+![Heatmap](./charts/Heatmap%20of%20Age%20Group%20Arrests%20by%20City.png)
 
 > Delhi clearly dominates every age category; older age groups remain very low overall.
 
@@ -72,7 +72,7 @@ To explore and visualize arrest patterns across 19 Indian metropolitan cities in
 
 ### 5️⃣ Top 10 Cities by Juvenile Arrests
 
-![Top 10 Juvenile](./Top%2010%20Cities%20by%20Juvenile%20Arrests.png)
+![Top 10 Juvenile](./charts/Top%2010%20Cities%20by%20Juvenile%20Arrests.png)
 
 > **Delhi** again tops the list in juvenile arrests, followed by **Chennai** and **Mumbai**.
 
